@@ -68,4 +68,4 @@ Cosas que me falta por mejorar, aun no estoy seguro de saber importar correctame
 - Website - [Portfolio en construccion](https://j-hernandezm.github.io)
 - Frontend Mentor - [@J-HernandezM](https://www.frontendmentor.io/profile/J-HernandezM)
 - Github - [@J-HernandezM](https://github.com/J-HernandezM)
-- Twitter - [@yourusername](https://www.twitter.com/__HernandezM)
+- Twitter - [@__HernandezM](https://www.twitter.com/__HernandezM)
