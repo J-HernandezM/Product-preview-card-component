@@ -31,7 +31,8 @@ El usuario deberia poder:
 
 ### Links
 
-- Solucion: [aqui](https://j-hernandezm.github.io/Product-preview-card-component/)
+- Solucion: [GITHUB](https://github.com/J-HernandezM/Product-preview-card-component)
+- Live site: [PAGES](https://j-hernandezm.github.io/Product-preview-card-component/)
 
 ## Mi proceso
 
